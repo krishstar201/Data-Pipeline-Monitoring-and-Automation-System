@@ -19,3 +19,5 @@ It logs into systems, navigates dashboards, and validates the presence of active
 
 ## Use Case
 Used for monitoring data pipelines, validating system health, and automating routine operational checks.
+
+Note: This project uses Selenium and requires ChromeDriver setup and Outlook configuration for OTP automation.
