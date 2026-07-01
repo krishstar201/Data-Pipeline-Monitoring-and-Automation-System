@@ -1,0 +1,4 @@
+tenant_list = [
+    "example1.com",
+    "example2.com"
+]
